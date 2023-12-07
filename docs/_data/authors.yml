@@ -1,0 +1,18 @@
+# /_data/authors.yml
+
+Pascal Sager:
+  name        : "Pascal Sager"
+  bio         : "PhD student and Head of AI Demonstrators at the Center for AI of the Zurich University of Applied Sciences."
+  avatar      : "https://avatars.githubusercontent.com/u/46379095?v=4"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sage@zhaw.ch"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://sagerpascal.github.io"
+    - label: "LinkedIn"
+      icon: "fas fa-fw "
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/sagerpascal"
