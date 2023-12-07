@@ -5,7 +5,8 @@ permalink: /
 author_profile: False
 ---
 
-![image-center](/AI-workshop/assets/images/A4-en-zhaw-cai-rgb-ohne-byline.png){: .align-center}
+
+![image-center](/AI-workshop/assets/images/A4-en-zhaw-cai-rgb-ohne-byline.png){: .align-center; width="250"; margin="auto"}
 
 Our AI workshop serves as a dynamic platform designed to inspire and motivate aspiring individuals to pursue studies in Science, Technology, Engineering, and Mathematics (STEM). Through engaging activities and informative sessions, we aim to kindle curiosity, foster creativity, and equip participants with a comprehensive understanding of the exciting realm of AI.
 
