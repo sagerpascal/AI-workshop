@@ -1,7 +1,7 @@
 ---
 layout: single
 author: Pascal Sager
-permalink: /
+permalink: /about/
 author_profile: False
 ---
 
