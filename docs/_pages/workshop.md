@@ -11,12 +11,12 @@ permalink: /workshop/
 
 ### Part 1: Introduction to AI
 
-- [Slides](/AI-workshop/_pages/workshop_p1.html)
-- [Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [Slides](/AI-workshop/_pages/workshop_p1.html){:target="_blank"}
+- [Teachable Machine](https://teachablemachine.withgoogle.com/){:target="_blank"}
 
 ### Part 2: AI in Practice: Learnbot
 
-- [Slides](/AI-workshop/_pages/workshop_p2.html)
+- [Slides](/AI-workshop/_pages/workshop_p2.html){:target="_blank"}
 
 ## English
 
