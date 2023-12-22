@@ -17,6 +17,7 @@ permalink: /workshop/
 ### Part 2: AI in Practice: Learnbot
 
 - [Slides](/AI-workshop/_pages/workshop_p2.html){:target="_blank"}
+- [Notebook](http://colab.research.google.com/github/sagerpascal/AI-workshop/blob/main/notebooks/p2_learnbot.ipynb){:target="_blank"}
 
 ## English
 
