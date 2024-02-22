@@ -16,3 +16,17 @@ Pascal Sager:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/sagerpascal"
+
+Yann Billeter:
+  name        : "Yann Billeter"
+  bio         : "MSc. student at ETH Zurich and Research Assistant at the Center for AI of the Zurich University of Applied Sciences."
+  avatar      : "https://www.zhaw.ch/typo3temp/assets/_processed_/8/2/csm_bily20231117145758_386f86d5b8.webp"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bily@zhaw.ch"
+    - label: "LinkedIn"
+      icon: "fas fa-fw "
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/sagerpascal"

@@ -6,7 +6,7 @@ tags:
   - Thementage
   - Sekundarstufe 1
   - Sekundarstufe 2
-author: "Pascal Sager"
+author: "Yann Billeter"
 author_profile: true
 related: false
 share: false
