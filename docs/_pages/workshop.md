@@ -13,6 +13,7 @@ permalink: /workshop/
 
 - [Slides](/AI-workshop/_pages/workshop_p1.html){:target="_blank"}
 - [Teachable Machine](https://teachablemachine.withgoogle.com/){:target="_blank"}
+- *Optional:* [TensorFlow Playground](https://playground.tensorflow.org/){:target="_blank"}
 
 ### Part 2: AI in Practice: Learnbot
 
