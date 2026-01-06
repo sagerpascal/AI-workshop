@@ -17,16 +17,39 @@ Pascal Sager:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/sagerpascal"
 
-Yann Billeter:
-  name        : "Yann Billeter"
-  bio         : "MSc. student at ETH Zurich and Research Assistant at the Center for AI of the Zurich University of Applied Sciences."
-  avatar      : "https://www.zhaw.ch/typo3temp/assets/_processed_/8/2/csm_bily20231117145758_386f86d5b8.webp"
+
+Jorge Peña Queralta:
+  name        : "Dr. Jorge Peña Queralta"
+  bio         : "Senior lecturer in reinforcement learning and group leader of the group Mobile Embodied Agents at the Centre for AI at Zurich University of Applied Sciences."
+  avatar      : "https://www.zhaw.ch/typo3temp/assets/_processed_/6/6/csm_penq20250903075909_37c19750ec.webp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bily@zhaw.ch"
+      url: "mailto:jorge.penaqueralta@zhaw.ch"
     - label: "LinkedIn"
       icon: "fas fa-fw "
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/sagerpascal"
+      url: "https://www.linkedin.com/in/jopequ/"
+
+Raphael De Gottardi:
+  name        : "Raphael De Gottardi"
+  bio         : "PhD student at the Center for AI of the Zurich University of Applied Sciences."
+  avatar      : "https://www.zhaw.ch/typo3temp/assets/_processed_/8/b/csm_dego20251028143259_686ad4f4e8.webp"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:raphael.degottardi@zhaw.ch"
+    - label: "LinkedIn"
+      icon: "fas fa-fw "
+      url: "https://www.linkedin.com/in/raphael-de-gottardi/"
+
+Lars Schmid:
+  name        : "Lars Schmid"
+  bio         : "MSc. student at the Center for AI of the Zurich University of Applied Sciences."
+  avatar      : "https://www.zhaw.ch/typo3temp/assets/_processed_/e/a/csm_shmr20240807132634_20a7c89fe2.webp"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lars.schmid@zhaw.ch"
+    - label: "LinkedIn"
+      icon: "fas fa-fw "
+      url: "https://www.linkedin.com/in/lars-schmid-a578741a9/"
