@@ -1,11 +1,31 @@
 source 'https://rubygems.org'
-gem 'github-pages'
-gem 'rdiscount'
-gem "jekyll"
+
+# Core Jekyll (Updated to version 4)
+gem "jekyll", "~> 4.3"
+
+# Theme
 gem "minimal-mistakes-jekyll"
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-include-cache", group: :jekyll_plugins
-gem "webrick", "~> 1.8"
+
+# Markdown Renderer
+# (Jekyll 4 defaults to kramdown, but keeping rdiscount since you had it)
+gem 'rdiscount'
+
+# Plugins
+# (Since we removed the 'github-pages' gem, we must list these explicitly)
 group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-include-cache"
   gem "jekyll-data"
+  # specific to Minimal Mistakes if you use remote layouts
+  gem "jekyll-remote-theme" 
 end
+
+# Ruby 3.x / 4.x Compatibility Libraries
+# These are no longer in the standard library and must be added here.
+gem "webrick"
+gem "csv"
+gem "bigdecimal"
+gem "base64"
+gem "net-http"
