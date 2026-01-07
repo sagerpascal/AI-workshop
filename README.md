@@ -5,10 +5,7 @@ An AI workshop for undergraduate students to get them excited about AI - taught 
 ## Structure
 - **Docs**: Contains the source code for the presentation slides/website, built with Jekyll and WebSlides.
   - Part I: Introduction to AI, examples, and risks.
-  - Part II: Practical workshop using Teachable Machine and Python (Learnbot).
-- **Notebooks**: Contains Jupyter notebooks used in the workshop (e.g., `p2_learnbot.ipynb`).
-
-The presentations are created using [WebSlides](https://webslides.tv).
+  - Part II: Practical workshop using Teachable Machine and Python to control a robot.
 
 ## Website
 For more information, please visit the [AI Workshop website](https://sagerpascal.github.io/AI-workshop/).
